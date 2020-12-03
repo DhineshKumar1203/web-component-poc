@@ -150,7 +150,9 @@
             "styles": [
               "projects/angular-component/src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+             "./custom-element.js"
+            ]
           },
           "configurations": {
             "production": {
